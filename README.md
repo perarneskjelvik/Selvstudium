@@ -4,6 +4,6 @@ Nyttårsforsettet var å gjenoppta to ting som jeg liker å holde på med: turni
 Turningen ligger fortsatt litt på is (skulder er ikke klar for flikk-flakk riktig ennå), men trening på slackline er et greit alternativ.
 Programmeringen går imidlertid greit, og i katalogene her ligger eksempler på selvstudium med Python & KI.
 
-## Slackline Training
+### Slackline = Sommer
 
-![Me on slackline](./images/20240504_161634.jpg)
+![Sommer på hytta](./images/20240504_161634.jpg)
