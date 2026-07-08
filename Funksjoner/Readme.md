@@ -7,4 +7,4 @@ Bruker nevrale nettverk for å lære funksjonene:
 - X^2 (X1)
 
 <img src="../images/and.png" width="400">
-<img src="../images/XiAndre.png" width="400">
+
