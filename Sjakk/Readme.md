@@ -5,6 +5,7 @@ Som sagt så gjort. Målet var selvsagt å slå Stockfish, men resultatet ble en
 I ettertid ser jeg at jeg selvsagt skulle løst dette vha bitmaps istedenfor rett-fram-programmering, men jeg lærte meg ihvertfall Python.
 
 En sentral del av en sjakkmotor er søkealgoritmen (i tillegg til evalueringsfunksjonen selvsagt). Her har jeg implementeret Alpha-Beta pruning i minimax algoritmen.
+Planen var også å implementere Monte Carlo-simulering og nevrale nettverk. Men så gikk jeg lei av sjakk, og maskinlæring ble implementert i andre oppgaver.
 
 Teoretisk bakgrunn fra boken "Neural Networks For Chess" (Dominik Klein, 2022).
 
