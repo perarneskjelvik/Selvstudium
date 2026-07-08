@@ -6,4 +6,4 @@ Programmeringen går imidlertid greit, og i katalogene her ligger eksempler på 
 
 ## Slackline Training
 
-![Me on slackline](./images/slackline-photo.png)
+![Me on slackline](./images/20240504_161634.jpg)
