@@ -8,4 +8,4 @@ Programmeringen går imidlertid greit, og i katalogene her ligger eksempler på 
 
 <img src="./images/20240504_161634.jpg" alt="Sommer på hytta" width="300">
 
-<img src="./images/scan.jpg"  width="400">
+<img src="./images/scan039.jpg"  width="400">
