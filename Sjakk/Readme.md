@@ -7,5 +7,7 @@ I ettertid ser jeg at jeg selvsagt skulle løst dette vha bitmaps istedenfor ret
 En sentral del av en sjakkmotor er søkealgoritmen (i tillegg til evalueringsfunksjonen selvsagt). Her har jeg implementeret Alpha-Beta pruning i minimax algoritmen.
 
 Teoretisk bakgrunn fra boken "Neural Networks For Chess" (Dominik Klein, 2022).
+
 https://github.com/asdfjkl/neural_network_chess
 
+<img src="./images/chess.jpg" alt="Sommer på hytta" width="300">
