@@ -16,4 +16,5 @@ Teoretisk bakgrunn fra boken "Deep Learning for Finance" (Sofien Kaabar, 2024).
 [https://github.com/asdfjkl/neural_network_chess](https://github.com/sofienkaabar/deep-learning-for-finance)
 
 <img src="../images/Finance.jpg" width="300">
+<img src="../images/equinor.png" width="300">
 
