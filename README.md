@@ -1,4 +1,4 @@
-# Selvstudium
+# Selvstudium KI og maskinlæring
 
 Nyttårsforsettet var å gjenoppta to ting som jeg liker å holde på med: turning og programmering.
 Turningen ligger fortsatt litt på is (skulderen er ikke helt klar for fravendt saks i bøylehesten riktig ennå), men trening på slackline er et greit alternativ.
