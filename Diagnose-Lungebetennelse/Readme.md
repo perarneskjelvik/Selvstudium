@@ -8,4 +8,4 @@ Teoretisk bakgrunn fra boken "Practical AI for Healthcare Professionals" (Abhina
 https://github.com/Apress/Practical-AI-for-Healthcare-Professionals/tree/main
 
 <img src="../images/health.jpg" width="300">
-<img src="../images/equinor.png" width="500">
+<img src="../images/lungebetennelse.jpg" width="500">
