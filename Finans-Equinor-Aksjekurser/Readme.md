@@ -13,7 +13,7 @@ Det får bli senere.
 Teoretisk bakgrunn fra boken "Deep Learning for Finance" (Sofien Kaabar, 2024).
 (Creating Machine & Deep Learning Models for Trading in Python)
 
-https://github.com/asdfjkl/neural_network_chess
+[https://github.com/asdfjkl/neural_network_chess](https://github.com/sofienkaabar/deep-learning-for-finance)
 
-<img src="../images/chess.jpg" width="300">
+<img src="../images/finance.jpg" width="300">
 
